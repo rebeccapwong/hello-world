@@ -5,7 +5,7 @@ permalink: /science-ponderings/index.html
 ---
 <h1>{{ page.title }}</h1>
 <ul class="ponderings">
-	{% for post in site.ponderings %}
-	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ pondering.url }}" title="{{ pondering.title }}">{{ pondering.title }}</a></li>
+	{% for pondering in site.ponderings %}
+	<li><span>{{ pondering.date | date_to_string }}</span> » <a href="{{ pondering.url }}" title="{{ pondering.title }}">{{ pondering.title }}</a></li>
 	{% endfor %}
 </ul>
