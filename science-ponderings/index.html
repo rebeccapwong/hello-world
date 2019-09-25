@@ -3,9 +3,21 @@ layout: default
 title: Science Ponderings
 permalink: /science-ponderings/index.html
 ---
-<h1>{{ page.title }}</h1>
-<ul class="ponderings">
-	{% for pondering in site.ponderings %}
-	<li><span>{{ pondering.date | date_to_string }}</span> » <a href="{{ pondering.url }}" title="{{ pondering.title }}">{{ pondering.title }}</a></li>
-	{% endfor %}
-</ul>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% if post.science-ponderings == 'science-ponderings' %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>    
+
+        <span class="post-date">{{ post.date | date_to_string }}</span>    
+
+        {{ post.content }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
