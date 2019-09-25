@@ -5,7 +5,7 @@ permalink: /personal-blog/index.html
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% if post.science-ponderings != null %}
     {% else %}
       <div class="post">
