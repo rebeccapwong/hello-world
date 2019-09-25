@@ -6,5 +6,8 @@ permalink: /personal-blog/index.html
 
 {% assign posts = site.posts | where:"type", "personal-blog" %}
 {% for post in posts %}
-{{ post.title }}
+<div class="post">
+  <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p class="meta">Date: {{ post.date }}</p>
+</div>
 {% endfor %}
