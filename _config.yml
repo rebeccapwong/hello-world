@@ -1,2 +1,12 @@
 name: Rebecca P. Wong
 theme: jekyll-theme-dinky
+
+defaults:
+  - scope:
+      path: "_posts/personal-blog"
+    values:
+      type: "personal-blog"
+  - scope:
+      path: "_posts/science-ponderings"
+    values:
+      type: "science-ponderings"
