@@ -5,7 +5,7 @@ date: 2019-09-27
 permalink: /science-ponderings/2019/09/27/Fighting-Heat-and-Poverty-with-Living-Roofs
 ---
 
-<i>3 minute read</i>
+<em>3 minute read</em>
 
 <p align="justify">I recently read an article on NPR (see link below [1]) on how poor neighborhoods disporportionately feel the effects of 
 a warming world compared to their more affluent
@@ -16,8 +16,9 @@ than wealthy ones. Interestingly, this coorelation is partially due to the amoun
 natural evaporation, cooling the air. Poorer areas are normally "concrete jungles" with few refuges such as parks and green spaces,
 whereas affluent neighborhoods always have trees. So what's being done to mitigate these differences?</p>
 
-<figure><center><img src="https://rebeccapwong.github.io/images/heat_income_correlation.png" style="width: 300px; height: 500px"/></center></figure>
+<figure><center><img src="https://rebeccapwong.github.io/images/heat_income_correlation.png" style="width: 300px; height: 250px"/></center></figure>
 <figcaption><center>Surface temperature income correlation for Colorado Springs, CO. Taken from [1].</center></figcaption>
+
 
 <p align="justify">Some cities are making changes to combat the heat, such as installing cool roofs and increasing community green spaces.
 I believe these efforts are helpful. But I also believe that the best solutions solve multiple problems simultaneously. Not only are poorer
