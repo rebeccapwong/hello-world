@@ -19,9 +19,9 @@ for things we currently use, such as using cloth bags rather than plastic bags, 
 One Danish study found the following:</p>
 
 <ul>
-  <li>polypropylene bags - 37 times
-  <li>paper bags - 43 times
-  <li>cotton bags - 7,100 times
+  <li>polypropylene bags - 37 times</li>
+  <li>paper bags - 43 times</li>
+  <li>cotton bags - 7,100 times</li>
 </ul>
 
 <p align="justify">(Here's a link leading to the article and study <a href="https://phys.org/news/2018-08-reuse-bags.html">[1]</a>.)</p>
@@ -69,6 +69,7 @@ materials and resources. It's this
 balance and the understanding of benefits and trade-offs that is the definition of sustainability to me.</p>
 
 <p>Link to articles:</p>
-<p>[1] https://phys.org/news/2018-08-reuse-bags.html</p>
-<p>[2] https://www.scientificamerican.com/article/renewables-are-as-green-as-you-d-expect/</p>
-<p>[3] https://www.bbc.com/news/science-environment-49567197?fbclid=IwAR33kIfAA-WosmJvS8hHo5AGIJLK28R2lMBds-nwFX3-kFv1Ro2Zor8XHso</p>
+<p><a href="https://phys.org/news/2018-08-reuse-bags.html">[1]</a> https://phys.org/news/2018-08-reuse-bags.html</p>
+<p><a href="https://www.scientificamerican.com/article/renewables-are-as-green-as-you-d-expect/">[2]</a> https://www.scientificamerican.com/article/renewables-are-as-green-as-you-d-expect/</p>
+<p><a href="https://www.bbc.com/news/science-environment-49567197?fbclid=IwAR33kIfAA-WosmJvS8hHo5AGIJLK28R2lMBds-nwFX3
+-kFv1Ro2Zor8XHso">[3]</a> https://www.bbc.com/news/science-environment-49567197?fbclid=IwAR33kIfAA-WosmJvS8hHo5AGIJLK28R2lMBds-nwFX3-kFv1Ro2Zor8XHso</p>
