@@ -2,7 +2,7 @@
 layout: pondering
 title: "What does Being Sustainable Really Mean?"
 date: 2019-10-04
-permalink: /science-ponderings/2019/10/04/What-does-Being-Sustainable-Really-Mean?
+permalink: /science-ponderings/2019/10/04/What-does-Being-Sustainable-Really-Mean
 ---
 
 <em>3 minute read</em>
@@ -39,6 +39,7 @@ in our lives and calling it good.</p>
 
 <figure><center><img src="https://rebeccapwong.github.io/images/cloth_bags.jpg" style="width: 300px; height: 250px"/></center></figure>
 <figcaption><center>I'm a bit embarassed how many cotton bags I have. Unfortunately, they hand them out like candy nowadays, even though I love them..</center></figcaption>
+<p></p>
 
 <p align="justify">I'm a huge fan also of renewable energy of course. It's something I'm really passionate about and have devoted a 
 substantial amount of my research career and early life to. It's easy to see the advantages of renwewable energy compared
