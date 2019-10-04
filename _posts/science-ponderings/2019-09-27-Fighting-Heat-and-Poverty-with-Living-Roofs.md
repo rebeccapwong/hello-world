@@ -49,4 +49,4 @@ create more green spaces. And until then, I'll keep looking for new and interest
 to thrive together.</p>
 
 <p>Link to article:</p>
-<p>[1] https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most</p>
+<p><a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1].</a> https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most</p>
