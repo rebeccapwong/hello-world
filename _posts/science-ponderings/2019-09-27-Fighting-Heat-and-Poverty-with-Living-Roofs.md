@@ -7,7 +7,7 @@ permalink: /science-ponderings/2019/09/27/Fighting-Heat-and-Poverty-with-Living-
 
 <em>3 minute read</em>
 
-<p align="justify">I recently read an article on NPR (see link below <a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1].</a>) on how poor neighborhoods disporportionately feel the effects of 
+<p align="justify">I recently read an article on NPR (see link below <a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1]</a>.) on how poor neighborhoods disporportionately feel the effects of 
 a warming world compared to their more affluent
 counterparts. This trend is not new; repeated studies show that the poor are the least well-equipped to deal with a changing environment,
 whether due to natural disasters, rising sea levels, or increased heat. Looking at the article's side-by-side images comparing surface 
@@ -17,7 +17,7 @@ natural evaporation, cooling the air. Poorer areas are normally "concrete jungle
 whereas affluent neighborhoods always have trees. So what's being done to mitigate these differences?</p>
 
 <figure><center><img src="https://rebeccapwong.github.io/images/heat_income_correlation.png" style="width: 300px; height: 250px"/></center></figure>
-<figcaption><center>Surface temperature income correlation for Colorado Springs, CO. Taken from <a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1].</a></center></figcaption>
+<figcaption><center>Surface temperature income correlation for Colorado Springs, CO. Taken from <a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1]</a>.</center></figcaption>
 
 <p></p>
 <p align="justify">Some cities are making changes to combat the heat, such as installing cool roofs and increasing community green spaces.
@@ -49,4 +49,4 @@ create more green spaces. And until then, I'll keep looking for new and interest
 to thrive together.</p>
 
 <p>Link to article:</p>
-<p><a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1].</a> https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most</p>
+<p><a href="https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most">[1]</a> https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most</p>
