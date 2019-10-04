@@ -37,7 +37,7 @@ be better for the environment than plastic and paper grocery bags. But we need t
 about what truly is sustainable and realize that "doing our part for the environment" is more complex than making a few substitutions
 in our lives and calling it good.</p>
 
-<figure><center><img src="https://rebeccapwong.github.io/images/cloth_bags.jpg" style="width: 300px; height: 250px"/></center></figure>
+<figure><center><img src="https://rebeccapwong.github.io/images/cloth_bags.jpg" style="width: 400px; height: 250px"/></center></figure>
 <figcaption><center>I'm a bit embarassed how many cotton bags I have. Unfortunately, they hand them out like candy nowadays, even though I love them..</center></figcaption>
 <p></p>
 
@@ -49,8 +49,7 @@ well-distributed across the earth. But that being said, it's important to realiz
 energy as well.</p>
 
 <p align="justify">A minor drawback currently are the rare earth metals used in the production of photovoltaics and wind turbines (though
-rare earths are actually not so rare. Plus, petroleum conversion to gasoline also requires rare earth metals.) <a href="
-https://www.scientificamerican.com/article/renewables-are-as-green-as-you-d-expect/">[2]</a>. A greater
+rare earths are actually not so rare. Plus, petroleum conversion to gasoline also requires rare earth metals.) <a href="https://www.scientificamerican.com/article/renewables-are-as-green-as-you-d-expect/">[2]</a>. A greater
 drawback is the inability to store energy from most renewable energy sources for long periods of time (with the exception of 
 pumped-storage hydroelectricity), meaning that until battery technology improves, we will always be somewhat reliant upon oil and gas
 for when renewable energy is not available (think nights for solar or windless days). There will be waste issues with
